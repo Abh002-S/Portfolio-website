@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Build outputs
+dist/
+.vite/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Editor and system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Dependencies lock file (optional)
+package-lock.json
